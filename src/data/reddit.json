@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "name": "r/Amoledbackgrounds",
+      "url": "https://www.reddit.com/r/Amoledbackgrounds/"
+    },
+    {
+      "name": "r/wallpapers",
+      "url": "https://www.reddit.com/r/wallpapers/"
+    },
+    {
+      "name": "r/wallpaper",
+      "url": "https://www.reddit.com/r/wallpaper/"
+    },
+    {
+      "name": "r/wallpaperengine",
+      "url": "https://www.reddit.com/r/wallpaperengine/"
+    }
+  ],
+  "filters": [
+    {"name": "hot", "query": "hot.json"},
+    {"name": "top", "query": "top.json"},
+    {"name": "day", "query": "top.json?t=day"},
+    {"name": "week", "query": "top.json?t=week"},
+    {"name": "month", "query": "top.json?t=month"},
+    {"name": "search", "query": "search.json?q="}
+  ]
+}
